@@ -1,6 +1,13 @@
 package eprcom.examples;
 
 public class Operation {
+	
+	/**
+	 * This method is used to perform the mathematical addition operation
+	 * @param a
+	 * @param b
+	 * @return add result
+	 */
 	public static int add(int a, int b) {
 		return a + b;
 	}
